@@ -521,3 +521,71 @@ margin-bottom: 16px;
 .footer-icon {
   fill: #f4f4fd;
 }
+
+.backdrop {
+  background-color: black;
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 672px;
+  display: flex;
+justify-content: center;
+align-items: center;
+  
+}
+
+.modal {
+  border-radius: 4px;
+width: 408px;
+height: 584px;
+background-color: #FCFCFC;
+box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12), 0 2px 1px 0 rgba(0, 0, 0, 0.2);
+padding: 112px 24px 136px;
+}
+
+
+.modal-text {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;
+margin-bottom: 16px;
+}
+
+.modal-form {
+  display: flex;
+  flex-direction: column;
+  border-radius: 4px;
+width: 360px;
+height: 336px;
+}
+
+.form-label {
+  width: 360px;
+height: 58px;
+}
+
+/* .modal-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #E7E9FC;
+  border-radius: 50%;
+border: 1px solid rgba(0, 0, 0, 0.1);
+width: 24px;
+height: 24px;
+color: #2E2F42;
+flex-shrink: 0;
+padding: 0;
+margin: 0;
+
+}
+
+.mpdal-btn-icon {
+  stroke: currentColor;
+  width: 8px;
+  height: 8px;
+  display: block;
+} */
