@@ -713,9 +713,11 @@ text-decoration-skip-ink: none
 
 .send-button {
   line-height: 1.5;
+  font-weight: 500;
   letter-spacing: 0.04em;
   border: none;
   color: #ffffff;
+  display: block;
 }
 
 .send-button:hover,
