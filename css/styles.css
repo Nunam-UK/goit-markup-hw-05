@@ -662,6 +662,10 @@ a {
   fill: #4d5ae5;
 }
 
+.modal-form-comments {
+  margin-bottom: 16px;
+}
+
 .modal-form-comment {
   height: 120px;
   width: 100%;
@@ -716,7 +720,7 @@ a {
 .checkbox:checked + .modal-form-checkbox {
   background-color: #404bbf;
   border: none;
-  
+  fill: #F4F4FD;
 }
 
 
