@@ -687,7 +687,7 @@ a {
 
 
 
-.modal-form-agreement {
+.modal-form-check {
   display: block;
   margin-bottom: 24px;
   font-size: 12px;
@@ -695,6 +695,7 @@ a {
   letter-spacing: 0.04em;
   color: #8e8f99;
 }
+
 
 .modal-form-checkbox {
   display: inline-flex;
