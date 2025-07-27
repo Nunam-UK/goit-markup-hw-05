@@ -717,7 +717,7 @@ a {
   fill: transparent;
 }
 
-.checkbox:checked + .modal-form-checkbox {
+.checkbox:checked + .modal-form-agreement .modal-form-checkbox {
   background-color: #404bbf;
   border: none;
   fill: #F4F4FD;
